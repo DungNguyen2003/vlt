@@ -1,6 +1,6 @@
 // Thay đổi nội dung búc thư ở đây
 var letterContent =
-  "Hiii ♡♡♡ Chúc Mike Valentine vui vẻ, sớm tìm kiếm được hạnh phúc lâu bền nha !! Với cả là bớt cau có hơn nhé, cái này vô tình anh kiếm được làm xàm xàm thôi đừng bảo anh trẻ trâu :))  ｡◕‿◕｡ Happy Valentine";
+  "Hiii ♡♡♡ Chúc Mike Valentine vui vẻ, sớm tìm kiếm được hạnh phúc lâu bền nha (nói vậy chứ cần gì tìm kiếm, ở ngay đây nè !! =)) ) Với cả là bớt cau có hơn nhé lúc nào cũng phải cute loi nhoi, cái này vô tình anh kiếm được làm xàm xàm thôi đừng bảo anh trẻ trâu :))  ｡◕‿◕｡ Happy Valentine";
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50;
